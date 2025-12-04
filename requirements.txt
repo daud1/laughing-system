@@ -3,6 +3,7 @@ langchain-astradb
 langchain-huggingface
 langchain-groq
 langchain-community
+langchain-classic
 datasets
 pypdf
 python-dotenv
